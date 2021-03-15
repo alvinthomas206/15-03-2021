@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid maroon;
+  margin-right:10px;
+  margin-left:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  background: url('images/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
